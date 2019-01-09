@@ -1,2 +1,8 @@
 .idea
 cmake-build-*
+.buckconfig.local
+.buckconfig.d
+buckaroo
+buckaroo_macros.bzl
+.buckd
+buck-out
